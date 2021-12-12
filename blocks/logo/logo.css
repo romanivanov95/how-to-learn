@@ -1,0 +1,6 @@
+.logo {
+  display: flex;
+  align-self: flex-start;
+  width: 183px;
+  background-size: cover;
+}
